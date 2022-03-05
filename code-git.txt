@@ -1,3 +1,2 @@
-code ligne 1 
 code ligne 2
 code ligne 3
